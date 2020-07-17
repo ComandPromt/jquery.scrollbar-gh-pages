@@ -1,2 +1,7 @@
 # jquery.scrollbar-gh-pages
-Scrolls
+
+![Preview](1.png)
+
+![Preview](2.png)
+
+![Preview](3.png)
